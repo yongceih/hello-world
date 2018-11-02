@@ -1,4 +1,3 @@
 # hello-world
-This is my first repository, and i deleted text "repository"
 
-This is my update to first branches.
+This is my 2nd update to master.
